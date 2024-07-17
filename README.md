@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @NikkiJr
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on numpy and pandas
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate AI
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: no
+- ⚡ Fun fact: ...
 
 <!---
 NikkiJr/NikkiJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
